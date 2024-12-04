@@ -38,7 +38,7 @@
 ### 1. 数据库配置
 下载并安装 MySQL。  
 使用以下SQL脚本初始化数据库：  
--- 提供的SQL脚本
+[-- 提供的SQL脚本](https://github.com/2312wl/ruanjian/edit/master/main)
 导入相关表结构和初始数据。
 ### 2. 后端服务部署
 克隆代码仓库到本地：  
