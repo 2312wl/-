@@ -38,26 +38,12 @@
 ### 1. 数据库配置
 下载并安装 MySQL。  
 使用以下SQL脚本初始化数据库：  
-[-- 提供的SQL脚本](https://github.com/2312wl/ruanjian/edit/master/main)
+[SQL脚本](https://github.com/2312wl/ruanjian/edit/master/main)
 导入相关表结构和初始数据。
-### 2. 后端服务部署
-克隆代码仓库到本地：  
-git clone [repository-url]
-进入项目目录：  
-cd project-directory  
-使用Maven构建项目：  
-mvn clean install  
-启动服务：  
-java -jar target/FinancialSystem.jar  
-### 3. 前端服务部署
-进入前端项目目录：  
-cd frontend-directory  
-安装依赖：  
-npm install
-构建前端应用：  
-npm run build  
-用本地开发服务器运行前端应用。    
-
+### 2. 环境配置
+具体环境版本文件请看：  
+[.package-lock.json](https://github.com/2312wl/ruanjian/blob/master/node_modules/.package-lock.json)
+ 
 
 ###用户操作指南  
 请参阅用户手册以获取详细的操作步骤和功能介绍。  
