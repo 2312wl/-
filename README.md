@@ -55,10 +55,10 @@
 
 <div align="center">
   <ul style="list-style-type:none;">
-    <li>Fork 本项目到您的GitHub账户。</li>
-    <li>创建一个新的分支并进行修改。</li>
-    <li>提交更改并推送至您的Fork。</li>
-    <li>在原始仓库中提交Pull Request。</li>
+    <p>Fork 本项目到您的GitHub账户。</p>
+    <p>创建一个新的分支并进行修改。</p>
+    <p>提交更改并推送至您的Fork。</p>
+    <p>在原始仓库中提交Pull Request。</p>
   </ul>
 </div>
 
